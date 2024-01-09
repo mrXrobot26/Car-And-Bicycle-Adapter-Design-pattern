@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car And Bicycle Adapter Design pattern", "Car And Bicycle Adapter Design pattern\Car And Bicycle Adapter Design pattern.csproj", "{DA39EB8C-7537-4309-8B7C-0E6944FFC9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA39EB8C-7537-4309-8B7C-0E6944FFC9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA39EB8C-7537-4309-8B7C-0E6944FFC9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA39EB8C-7537-4309-8B7C-0E6944FFC9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA39EB8C-7537-4309-8B7C-0E6944FFC9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD75A9D5-B54C-4503-A355-28898DEE9F4F}
+	EndGlobalSection
+EndGlobal
